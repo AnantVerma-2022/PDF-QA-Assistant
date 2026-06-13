@@ -1,0 +1,54 @@
+# Langchain Dependancies
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+langchain-groq
+langchain-tavily
+
+# Transformers
+transformers
+huggingface-hub
+sentence-transformers
+
+# Core Pytorch
+torch
+torchvision
+torchaudio
+
+# Environment Variable Management
+python-dotenv
+
+# Streamlit
+streamlit
+
+# Numerical
+numpy
+scipy
+
+# Data Handling
+pandas
+
+# For Ipykernel
+ipykernel
+
+# Chain
+grandalf
+
+# tools
+duckduckgo_search
+ddgs
+arxiv
+wikipedia
+tavily-python
+
+tabulate
+
+pypdf
+pymupdf
+
+faiss-cpu
+chromadb
